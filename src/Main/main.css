@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.menuBar{
+    display: inline-block;
+    margin: 20px;
+
+}
